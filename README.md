@@ -1,5 +1,5 @@
 # Simulation and Performance evlautation in Python
-Repo of the course "Computer Aided Simulation and Performance Evaluation" at Polito.
+Repo of the course "Computer Aided Simulation and Performance Evaluation" at PoliTO.
 
 
 This repo contains code and report of 4 lab simulations.
